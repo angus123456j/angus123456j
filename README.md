@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Angus Lang
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/cave.mov" autoplay="autoplay" loop="loop" muted="muted" width="100%"></video>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angus123456j&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
