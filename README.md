@@ -1,11 +1,7 @@
 ## Hi 👋 I'm Angus Lang
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/beach.gif" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angus123456j&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/beach.gif" width="1000" />
 </p>
 
 ---
