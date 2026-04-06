@@ -32,5 +32,5 @@ A voice-driven educational platform that turns spoken mathematical instructions 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/angus-lang/)
+[LinkedIn](https://www.linkedin.com/in/angus-lang/) [Email](mailto:a27lang@uwaterloo.ca) 
 
