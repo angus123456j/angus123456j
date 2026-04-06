@@ -1,28 +1,36 @@
 ## Hi 👋 I'm Angus Lang
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angus123456j&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/beach.gif" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angus123456j&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### About
-I am a software developer based in Waterloo with a focus on full stack applications and game development. My work centers on creating functional tools and interactive experiences, ranging from civic crowdfunding platforms to mobile games. I have a particular interest in virtual reality and the application of voice-driven interfaces.
+
+I’m a Software Engineering student at Waterloo focused on building software that feels thoughtful, useful, and technically sharp.
+
+Most of what I build sits around AI, interfaces, and product systems. I like projects where technical depth and user experience matter equally, whether that means writing tools, educational software, or real-time interactive systems.
+
+I enjoy shipping quickly, refining details, and treating projects like real products rather than static prototypes.
 
 ---
 
 ### Featured Projects
 
-* **Insighta**
-  A voice-driven graphing application built using FastAPI and Gemini. It allows users to generate and manipulate data visualizations through natural language commands.
+**Infinite Monkeys**
+A writer-first AI document interface where specialized agents rewrite inline without interrupting writing flow, with controllable context retrieval and orchestration built directly into the editor.
+
+**Insighta**
+A voice-driven educational platform that turns spoken mathematical instructions into live graphs and visual explanations for technical learning.
 
 ---
 
 ### Contact
+
 [LinkedIn](https://www.linkedin.com/in/angus-lang/)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angus123456j&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
