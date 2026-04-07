@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/beach.gif" width="1000" />
+  <img src="https://raw.githubusercontent.com/angus123456j/angus123456j/main/beach.gif" width="1200" />
 </p>
 
 ## Hi 👋 I'm Angus Lang
