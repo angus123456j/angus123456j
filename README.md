@@ -12,7 +12,7 @@ I’m a Software Engineering student at Waterloo focused on building software th
 
 Most of what I build sits around AI, interfaces, and product systems. I like projects where technical depth and user experience matter equally, whether that means writing tools, educational software, or real-time interactive systems.
 
-I enjoy shipping quickly, refining details, and treating projects like real products rather than static prototypes.
+I enjoy getting stuff done, refining details, and treating projects like real products rather than static prototypes.
 
 ---
 
