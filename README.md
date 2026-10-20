@@ -1,4 +1,7 @@
-<img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="hobbit-mobile.svg">
+  <img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
+</picture>
 
 ## Hi 👋 I'm Angus Lang
 
