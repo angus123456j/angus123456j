@@ -1,4 +1,7 @@
-<img src="hobbit.gif" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
+<picture>
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/angus123456j/angus123456j/main/hobbit.gif">
+  <img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
+</picture>
 
 ## Hi 👋 I'm Angus Lang
 
