@@ -1,4 +1,4 @@
-<img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
+<img src="hobbit.gif" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
 
 ## Hi 👋 I'm Angus Lang
 
