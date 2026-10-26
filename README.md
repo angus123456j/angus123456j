@@ -3,7 +3,7 @@
   <img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
 </picture>
 
-## Hi 👋 I'm Angus Lang
+## Angus Lang
 
 ---
 
