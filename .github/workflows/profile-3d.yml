@@ -19,6 +19,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: angus123456j
 
+
+      - name: Hide stars and forks
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("profile-3d-contrib/profile-night-view.svg")
+          svg = path.read_text()
+
+          css = """
+          <style>
+            g[transform="translate(608, 802), scale(2)"],
+            g[transform="translate(736, 802), scale(2)"],
+            text[x="650"][y="830"],
+            text[x="772"][y="830"] {
+              display: none;
+            }
+          </style>
+          """
+
+          svg = svg.replace("</svg>", css + "</svg>")
+          path.write_text(svg)
+          PY
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -27,3 +51,5 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+
+
