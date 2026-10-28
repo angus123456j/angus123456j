@@ -42,4 +42,4 @@ A free, privacy-focused Chrome extension for speech-to-text and text-to-speech, 
 
 ### My Contributions
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+![3D Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=angus123456j&theme=dark&width=1200&height=350&stats=false&credit=false)
