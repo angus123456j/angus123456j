@@ -39,7 +39,3 @@ A free, privacy-focused Chrome extension for speech-to-text and text-to-speech, 
 
 [Website](https://www.anguslang.ca) · [LinkedIn](https://www.linkedin.com/in/angus-lang/) · [Email](mailto:a27lang@uwaterloo.ca)
 
-
-### My Contributions
-
-![3D Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=angus123456j&theme=dark&width=1200&height=350&stats=false&credit=false)
