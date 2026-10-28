@@ -15,7 +15,7 @@ I enjoy exploring new technologies, working through interesting technical challe
 
 I'm currently exploring machine learning, computer vision, and new ways to build interactive software. I enjoy experimenting with different technologies, learning how things work under the hood, and taking projects beyond their initial prototypes.
 
-### Selected Projects
+### Recent Projects
 
 **[Wildlife Video Analytics](https://github.com/angus123456j/Wild-life-gtstream)**  
 An end-to-end animal detection and multi-object tracking pipeline using GStreamer, YOLO, and ByteTrack. Fine-tuned on Alpine wildlife footage and evaluated on 775 official test videos.
