@@ -1,8 +1,4 @@
 
-### My Contributions
-
-![Conway's Game of Life](./game-of-life.gif)
-
 <picture>
   <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/angus123456j/angus123456j/main/hobbit.gif">
   <img src="hobbit.svg" alt="A hobbit hole at sunrise, in animated ascii" width="100%">
