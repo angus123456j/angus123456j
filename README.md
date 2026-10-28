@@ -5,29 +5,36 @@
 
 ## Angus Lang
 
----
-
 ### About
 
-I’m a Software Engineering student at Waterloo focused on building software that feels thoughtful, useful, and technically sharp.
+I'm a Software Engineering student at the University of Waterloo with interests in AI, computer vision, full-stack development, and interactive systems.
 
-Most of what I build sits around AI, interfaces, and product systems. I like projects where technical depth and user experience matter equally, whether that means writing tools, educational software, or real-time interactive systems.
+I enjoy exploring new technologies, working through interesting technical challenges, and turning ideas into software people can actually use. I especially like projects that combine technical depth with thoughtful design and a good user experience.
 
-I enjoy getting stuff done, refining details, and treating projects like real products rather than static prototypes.
+### What I'm Working On
 
----
+I'm currently exploring machine learning, computer vision, and new ways to build interactive software. I enjoy experimenting with different technologies, learning how things work under the hood, and taking projects beyond their initial prototypes.
 
-### Featured Projects
+### Selected Projects
 
-**Infinite Monkeys**
-A writer-first AI document interface where specialized agents rewrite inline without interrupting writing flow, with controllable context retrieval and orchestration built directly into the editor.
+**[Wildlife Video Analytics](https://github.com/angus123456j/Wild-life-gtstream)**  
+An end-to-end animal detection and multi-object tracking pipeline using GStreamer, YOLO, and ByteTrack. Fine-tuned on Alpine wildlife footage and evaluated on 775 official test videos.
 
-**Insighta**
-A voice-driven educational platform that turns spoken mathematical instructions into live graphs and visual explanations for technical learning.
+<!-- TODO: Upload a screenshot or GIF to images/wildlife.png, then uncomment the line below. -->
+<!-- <img src="./images/wildlife.png" alt="Wildlife detection and tracking demo" width="600"> -->
 
----
+**[Infinite Monkeys](https://github.com/angus123456j/Infinite-Monkeys)**  
+An AI-assisted writing editor focused on human control, with contextual rewrites and an interface designed to keep writers in charge of every change.
+
+<!-- TODO: Upload a screenshot or GIF to images/infinite-monkeys.png, then uncomment the line below. -->
+<!-- <img src="./images/infinite-monkeys.png" alt="Infinite Monkeys writing editor" width="600"> -->
+
+**[WhispyFlow](https://github.com/angus123456j/WispyFlow)**  
+A free, privacy-focused Chrome extension for speech-to-text and text-to-speech, powered by locally running open-source AI models.
+
+<!-- TODO: Upload a screenshot or GIF to images/whispyflow.png, then uncomment the line below. -->
+<!-- <img src="./images/whispyflow.png" alt="WhispyFlow Chrome extension" width="600"> -->
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/angus-lang/) [Email](mailto:a27lang@uwaterloo.ca) [Website](https://www.anguslang.ca)
 
