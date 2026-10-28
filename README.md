@@ -40,3 +40,9 @@ A free, privacy-focused Chrome extension for speech-to-text and text-to-speech, 
 
 [Website](https://www.anguslang.ca) · [LinkedIn](https://www.linkedin.com/in/angus-lang/) · [Email](mailto:a27lang@uwaterloo.ca)
 
+
+### My Contributions
+
+![Atari Breakout](https://raw.githubusercontent.com/angus123456j/angus123456j/output/breakout-contribution-graph-dark.svg)
+
+
